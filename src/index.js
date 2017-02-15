@@ -1,7 +1,1 @@
-'use strict';
-
-export default {
-  greet(){
-    return 'Hello World';
-  }
-}
+export const traverse = (array = []) => array.map(row => row.reduce((prev, current) => prev + current, 0));
