@@ -2,6 +2,8 @@
 
 > Arrays within Arrays
 
+[![Build Status](https://travis-ci.org/helio-training/fs-corejs-arrays-multi-dimensional.svg?branch=solutions)](https://travis-ci.org/helio-training/fs-corejs-arrays-multi-dimensional)
+
 ## Introduction
 
 Multi-dimensional arrays  are arrays that contain one or many arrays as items within the array.  In math, these are often referred to as matrices. 
